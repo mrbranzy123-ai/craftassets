@@ -1,0 +1,7 @@
+[auth]
+enabled = true
+providers = ["email"]
+
+[ai]
+required = true
+description = "CraftAssets uses AI to screen uploaded Minecraft GFX for relevance and unsafe content. Configure a supported AI provider or account AI credit in Setup."
